@@ -13,7 +13,7 @@
 
             reactHandler().stateNode.setState({ lockedBlooks: [], takenBlooks: [] });
             alert('Blooks unlocked!');
-})();
+})();3
 
 
 function footer() {
@@ -47,4 +47,5 @@ function footer() {
     });
 };
 
-footer();
+footer();every blook
+
